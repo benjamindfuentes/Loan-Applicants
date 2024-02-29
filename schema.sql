@@ -4,7 +4,7 @@ SET search_path = applications;
 --Borrower data table 
 CREATE TABLE borrower (
 	"id" INTEGER,
-  "age" INTEGER,
+	"age" INTEGER,
 	"home" VARCHAR(50),
 	"intent" VARCHAR (50),
 	"emp_length" VARCHAR(5),
