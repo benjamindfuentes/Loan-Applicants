@@ -1,6 +1,6 @@
 # Loan Applicants Data
 ## 💼  Overview
-An ongoing project analyzing and visualizing loan application data using SQL. 
+A project analyzing and visualizing loan application data using SQL. 
 
 I'll be tracking/analyzing loan applications submitted for 6 loan purposes: 
 1. Education, 
