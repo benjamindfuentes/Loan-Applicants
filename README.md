@@ -19,5 +19,4 @@ From applicants who:
 ### 📁 Files
 * [query-v2.sql](https://github.com/benjamindfuentes/Loan-Applicants/blob/main/query.sql) SQL code I used to analyze my data
 * [schema-v2.sql](https://github.com/benjamindfuentes/Loan-Applicants/blob/main/schema.sql) SQL code used to create my own schema for my project
-
-
+* [Dashboard](https://public.tableau.com/app/profile/benjamin.fuentes/viz/LoanApplicationsDashboard/LoanApplicationsDashboard) View the dashboard I made for thi project
